@@ -62,7 +62,8 @@ when there are characters available, i.e., more_available returns true.
 when there are at least k+1 characters available      
 Language: Write the function in Rust and one of C++ and Python. You may use whichever you are     
 most comfortable with as the first language. (See syllabus for details.)         
-Examples: Suppose our file looks like this:          
+***Examples:****   
+Suppose our file looks like this: 
 1 dog
 2 cat
 3 apple     
@@ -90,8 +91,8 @@ Hint:
 • Rust does not have such libraries and it is difficult to do actual streaming in Rust. The easiest way
 is probably store the whole content of the file as a string or a vector of strings first and then just
 read from there.    
-3    
-Non-Programming Problems (16 points)    
+   
+## Non-Programming Problems (16 points)    
 1. (6 points) Given the following lexemes in C++:    
 • “Hello World”    
 • myName   
