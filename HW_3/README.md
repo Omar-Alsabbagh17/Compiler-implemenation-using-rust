@@ -1,6 +1,6 @@
 a parser for the following EBNF grammar:
 
-"<S> ::= {a} <X> | b <X>"
+"< S > ::= {a} <X> | b <X>"
 "<X> ::= c | d"
   
   
